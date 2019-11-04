@@ -1,0 +1,20 @@
+D:\Projects Visual Studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Projects Visual Studio\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Projects Visual Studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Projects Visual Studio\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Projects Visual Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Projects Visual Studio\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Projects_Visual_Studio\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Projects_Visual_Studio\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Projects_Visual_Studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Projects_Visual_Studio\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Projects_Visual_Studio\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects_Visual_Studio\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Projects_Visual_Studio\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\eszah\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\eszah\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\eszah\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\eszah\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\eszah\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\eszah\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb

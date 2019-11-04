@@ -1,0 +1,6 @@
+D:\Projects Visual Studio\MyList\MyList\obj\Debug\MyList.csprojAssemblyReference.cache
+D:\Projects Visual Studio\MyList\MyList\bin\Debug\MyList.exe.config
+D:\Projects Visual Studio\MyList\MyList\bin\Debug\MyList.exe
+D:\Projects Visual Studio\MyList\MyList\bin\Debug\MyList.pdb
+D:\Projects Visual Studio\MyList\MyList\obj\Debug\MyList.exe
+D:\Projects Visual Studio\MyList\MyList\obj\Debug\MyList.pdb
